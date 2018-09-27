@@ -1,4 +1,5 @@
-# Jodit Editor 3
+# Jodit Editor for Ecobilda
+
 An excellent WYSIWYG editor written in pure TypeScript without the use of additional libraries. Its file editor and image editor.
 
 ![Jodit WYSIWYG editor](https://raw.githubusercontent.com/xdan/jodit/master/examples/assets/logo.png)
@@ -17,26 +18,15 @@ An excellent WYSIWYG editor written in pure TypeScript without the use of additi
 
 ## Get Started
 ## How use
-Download latest [release](https://github.com/xdan/jodit/releases/latest) or
-### INSTALL VIA BOWER
-```bash
-bower install jodit
-```
-### INSTALL VIA NPM
-```bash
-npm install jodit
-```
+Download latest [release](https://github.com/Dakad/jodit-ecobilda/releases) or
+
 Include just two files
 
 ```xml
 <link type="text/css" rel="stylesheet" href="build/jodit.min.css">
 <script type="text/javascript" src="build/jodit.min.js"></script>
 ```
-### CDN
-```xml
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jodit/3.1.92/jodit.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/jodit/3.1.92/jodit.min.js"></script>
-```
+
 ### USAGE
 
 And some `<textarea>` element
@@ -49,14 +39,6 @@ After this, you can init Jodit plugin
 ```javascript
 var editor = new Jodit('#editor');
 editor.value = '<p>start</p>';
-```
-
-With jQuery
-```javascript
-$('textarea').each(function (elm) {
-    var editor = new Jodit(elm);
-    editor.value = '<p>start</p>';
-});
 ```
 
 ## For contributors:
@@ -155,8 +137,10 @@ ______________________
 
 ## Contributing
 
-This project is maintained by a community of developers. Contributions are welcome and appreciated. You can find Jodit on GitHub; feel free to start an issue or create a pull requests:
-https://github.com/xdan/jodit
+This project is maintained by a community of developers. 
+Contributions are welcome and appreciated. You can find jodit-ecobilda on GitHub;
+Feel free to start an issue or create a pull requests:
+https://github.com/Dakad/jodit-ecobilda
 
 ## License
 
