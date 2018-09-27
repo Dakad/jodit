@@ -4,10 +4,8 @@ An excellent WYSIWYG editor written in pure TypeScript without the use of additi
 
 ![Jodit WYSIWYG editor](https://raw.githubusercontent.com/xdan/jodit/master/examples/assets/logo.png)
 
-[![Build Status](https://travis-ci.org/xdan/jodit.svg?branch=master)](https://travis-ci.org/xdan/jodit)
-[![npm version](https://badge.fury.io/js/jodit.svg)](https://badge.fury.io/js/jodit)
-[![npm](https://img.shields.io/npm/dm/jodit.svg)](https://www.npmjs.com/package/jodit)
-[![Gitter](https://badges.gitter.im/xdan/jodit.svg)](https://gitter.im/xdan/jodit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![version](https://badge.fury.io/gh/Dakad%2Fjodit-ecobilda.svg)](https://badge.fury.io/for/gh/Dakad/jodit-ecobilda)
+[![Build Status](https://travis-ci.org/Dakad/jodit-ecobilda.svg?branch=master)](https://travis-ci.org/Dakad/jodit-ecobilda)
 
  * [Demo and Official site](https://xdsoft.net/jodit/)
  * [Playground - play with options](https://xdsoft.net/jodit/play.html)
